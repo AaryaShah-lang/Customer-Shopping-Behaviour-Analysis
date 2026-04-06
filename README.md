@@ -60,6 +60,7 @@ If you want, I can customize this README with your actual project (dataset name,
 Here is a clean, recruiter-friendly README.md based exactly on the prompt:
 
 📊 Data Analytics Project
+
 📌 Overview
 
 This project showcases an end-to-end data analytics workflow, including data loading, cleaning, exploratory data analysis (EDA), SQL querying, dashboard creation, and reporting. The goal is to extract meaningful insights and present them effectively using visualization and storytelling tools.
@@ -68,11 +69,13 @@ This project showcases an end-to-end data analytics workflow, including data loa
 The dataset is loaded using Python.
 It contains structured data used for analysis and visualization.
 Data preprocessing ensures quality and consistency before analysis.
+
 🛠️ Tools
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 SQL (PostgreSQL / MySQL / SQL Server)
 Power BI (Dashboard creation)
 Gamma (Presentation creation)
+
 🔄 Steps
 Data Loading
 Imported dataset into Python environment
@@ -92,21 +95,13 @@ Included KPIs and visual insights
 Reporting
 Created a structured report
 Developed a presentation using Gamma
+
 📊 Dashboard
 Interactive Power BI dashboard
 Displays key metrics and trends
 Enables easy data-driven decision-making
+
 📈 Results
 Identified important trends and patterns
 Generated actionable insights
 Presented findings through visualizations and reports
-▶️ How to Run
-Clone the repository
-
-Install dependencies:
-
-pip install pandas numpy matplotlib seaborn
-Run Python scripts for EDA and preprocessing
-Execute SQL queries in your database
-Open the Power BI file to view the dashboard
-Review the report and presentation
